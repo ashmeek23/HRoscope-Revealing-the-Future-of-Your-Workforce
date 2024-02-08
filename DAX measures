@@ -1,0 +1,22 @@
+Measure name:
+1. Total working days
+Total Working Days =
+VAR totaldays = COUNT('Final Data'[Value])
+VAR nonworkdays = CALCULATE(COUNT('Final
+Data'[Value]), 'Final Data'[Value] IN {"WO", "HO"})
+RETURN
+totaldays-nonworkdays
+
+2. Present days
+Present Days =
+VAR presentdays = CALCULATE(COUNT('Final
+Data'[Value]), 'Final Data'[Value]="P")
+RETURN
+presentdays + [WFH Count]
+
+3. Presence %
+Presence % = DIVIDE([Present Days], 'Measure
+Table'[Total Working Days], 0)
+
+4. WFH count
+WFH Count = SUM('Final Data'[WFH count])
