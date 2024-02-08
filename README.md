@@ -2,8 +2,9 @@
 HRoscope leverages Power BI to transform HR data into actionable insights, empowering data-driven decisions in talent acquisition, employee engagement, performance &amp; workforce planning.
 
 **DASHBOARD**
-![image](https://github.com/ashmeek23/HRoscope-Revealing-the-Future-of-Your-Workforce/assets/141473881/f993fe63-a66d-4873-b5fc-edc146a6c91a)
+![Screenshot (70)](https://github.com/ashmeek23/HRoscope-Revealing-the-Future-of-Your-Workforce/assets/141473881/dfaaa6d9-0d72-4d44-be34-efd1ad8f555b)
 
-![image](https://github.com/ashmeek23/HRoscope-Revealing-the-Future-of-Your-Workforce/assets/141473881/e951199e-d659-4968-820d-dc4839b0a7f2)
+![Screenshot (71)](https://github.com/ashmeek23/HRoscope-Revealing-the-Future-of-Your-Workforce/assets/141473881/9d176976-80b9-4111-b7b5-1029647f634b)
 
-![image](https://github.com/ashmeek23/HRoscope-Revealing-the-Future-of-Your-Workforce/assets/141473881/3f14b302-94ce-4c2d-be6f-a3596c3a4d4f)
+![Screenshot (72)](https://github.com/ashmeek23/HRoscope-Revealing-the-Future-of-Your-Workforce/assets/141473881/45909a88-d497-4435-adb8-85cfc5ecdbf2)
+
